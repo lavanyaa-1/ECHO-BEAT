@@ -99,7 +99,7 @@ const Account = () => {
   };
 
   useEffect(() => {
-    document.title = `Musicon - Account`;
+    document.title = `EchoBeat - Account`;
 
     if (user) {
       setTimeout(() => {

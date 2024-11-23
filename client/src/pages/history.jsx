@@ -107,7 +107,7 @@ const Library = () => {
   };
 
   useEffect(() => {
-    document.title = `Musicon - History`;
+    document.title = `EchoBeat - History`;
 
     let cancelToken = axios.CancelToken.source();
 

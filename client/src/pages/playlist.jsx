@@ -138,7 +138,7 @@ const Collections = ({ isArtist }) => {
   };
 
   useEffect(() => {
-    document.title = `Musicon - Playlist`;
+    document.title = `EchoBeat - Playlist`;
 
     const cancelToken = axios.CancelToken.source();
 

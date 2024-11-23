@@ -111,7 +111,7 @@ const Menu = forwardRef((params, ref) => {
             <div className="dot" />
           </div>
           <div>
-            <h1>Musicon</h1>
+            <h1>EchoBeat</h1>
           </div>
           <div className="bar">
             <button
@@ -295,7 +295,7 @@ const Menu = forwardRef((params, ref) => {
           </div>
 
           <div className="rights">
-            <p>@ Copyright {new Date().getFullYear()} Musicon</p>
+            <p></p>
           </div>
         </div>
       </div>
